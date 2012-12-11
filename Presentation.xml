@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>LeveragingAspNetSkillsToBuildOfficeApps</Id>
+  <Technologies>
+    <Technology>Visual Studio</Technology>
+    <Technology>ASP.NET MVC</Technology>
+    <Technology>ASP.NET</Technology>
+    <Technology>Office</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://bradygaster.com</Blog>
+    <Email>bradyg@microsoft.com</Email>
+    <Name>Brady Gaster</Name>
+  </Author>
+  <Description>
+    Did you know that the new cloud-based app model lets you build apps for Office and SharePoint on the ASP.NET platform? The new app model embraces standard web technologies, so you can build an all new class of apps for Office and SharePoint using your HTML, JavaScript and ASP.NET skills. You'll see how the combination of ASP.NET and ASP.NET Web API backed applications hosted in Windows Azure lets you build and ultimately land your apps in the Office Store. The apps for Office and SharePoint in the Store on office.com are available to both on-premises and Office 365 users of Office and SharePoint worldwide.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\LeveragingAspNetSkillsToBuildOfficeApps.pptx</Document>
+  <Title>Leveraging your ASP.NET development skills to build apps for Office</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
