@@ -16,6 +16,6 @@
   </Description>
   <Document RemoveSpeakerNotes="true">.\LeveragingAspNetSkillsToBuildOfficeApps.pptx</Document>
   <Title>Leveraging your ASP.NET development skills to build apps for Office</Title>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>
 </Presentation>
